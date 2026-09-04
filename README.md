@@ -1,6 +1,6 @@
 <img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
-# ഒന്നാണോ? (ONNAANO?) 🎯
+# ഒന്നാണോ? (ONNANO?) 🎯
 ### *AI & Computer Vision Object Understanding, Posture Normalization & Comparison Engine*
 
 > **“Same aano? AI parayatte.”** — An AI-powered Computer Vision engine that detects, normalizes, identifies, measures physical visual properties, and fairly divides or compares everyday objects.
@@ -224,7 +224,10 @@ This project does not require dedicated hardware. Images can be uploaded or capt
 
 **Not applicable.** ONNAANO? is a software-based AI and Computer Vision project and does not require an electronic circuit or dedicated hardware components.
     
-
+### Project Demo
+# Video
+[▶️ Click here to watch the demo](https://drive.google.com/drive/folders/15DJvAoDkZvDrPtv4Xv_5poi8VqN1rOSE?usp=sharing)
+The video demonstrates ONNANO? — “Same aano? AI parayatte!”, an AI-powered Computer Vision project. It shows how the system identifies objects from uploaded or captured images, isolates and straightens them, and analyzes their visual properties. The video also demonstrates splitting a single object into equal parts and comparing multiple objects based on their shape, size, colour, texture, and visual features, followed by a similarity score and AI-generated verdict.
 
 ## 👥 Team Contributions
 
